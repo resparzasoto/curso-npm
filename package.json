@@ -1,0 +1,24 @@
+{
+  "name": "curso-npm",
+  "version": "0.1.0",
+  "description": "Curso de Gestión de Dependencias y Paquetes con NPM",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/resparzasoto/curso-npm.git"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "package"
+  ],
+  "author": "Rubén Esparza <rubenesparzasoto95@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/resparzasoto/curso-npm/issues"
+  },
+  "homepage": "https://github.com/resparzasoto/curso-npm#readme"
+}
